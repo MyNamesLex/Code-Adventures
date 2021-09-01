@@ -5,3 +5,7 @@
 RockPaperScissors
 
 HangMan
+
+## JavaScript
+
+DiscordBot(Old)
