@@ -1,0 +1,5 @@
+﻿  RockPaperScissors.cpp
+D:\Outside University Game Dev Stuff\Codey Stuff\RockPaperScissors\RockPaperScissors\RockPaperScissors.cpp(9,30): warning C4273: 'srand': inconsistent dll linkage
+D:\Windows SDK\Include\10.0.19041.0\ucrt\stdlib.h(350,23): message : see previous definition of 'srand'
+D:\Outside University Game Dev Stuff\Codey Stuff\RockPaperScissors\RockPaperScissors\RockPaperScissors.cpp(69,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RockPaperScissors.vcxproj -> D:\Outside University Game Dev Stuff\Codey Stuff\RockPaperScissors\Debug\RockPaperScissors.exe
