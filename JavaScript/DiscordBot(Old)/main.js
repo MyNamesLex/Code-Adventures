@@ -35,5 +35,3 @@ client.on('message', message =>{
         client.commands.get('gaming').execute(message, args);
     }
 });
-
-client.login('NzQ0MTEwMDQ5MDc2NzA3MzI5.XzecfA.VP77n6LXiAflWqKzQuJaeTNkzZE');
