@@ -1,6 +1,6 @@
 # Language List
 
-## C++
+## Uses C++
 
 RockPaperScissors
 
