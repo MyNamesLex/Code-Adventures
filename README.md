@@ -1,12 +1,7 @@
 # Language List
 
-## C++
+## Using C++
 
 RockPaperScissors
 
 HangMan
-
-## JavaScript
-
-DiscordBot(Old)
-(Deleted Bot From My Developer Portal)
