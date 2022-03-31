@@ -1,2 +1,7 @@
 **[Oo]bj/
 **/[Bb]in/**
+.vs/
+*.log
+*.tlog
+*.exe
+**/Debug/**
