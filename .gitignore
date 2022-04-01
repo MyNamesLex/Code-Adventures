@@ -5,5 +5,3 @@
 *.tlog
 *.exe
 **/Debug/**
-C++/Hangman/Hangman/
-C++/RockPaperScissors/
