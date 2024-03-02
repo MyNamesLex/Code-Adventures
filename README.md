@@ -5,3 +5,5 @@
 RockPaperScissors
 
 HangMan
+
+Sorting Algorithms
