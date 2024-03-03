@@ -2,8 +2,8 @@
 
 ## Using C++
 
-RockPaperScissors
+Rock Paper Scissors
 
-HangMan
+Hangman
 
 Sorting Algorithms
