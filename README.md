@@ -7,3 +7,5 @@ Rock Paper Scissors
 Hangman
 
 Sorting Algorithms
+
+Data Structures
